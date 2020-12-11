@@ -1,15 +1,16 @@
 import React from 'react';
+import './BobaPlace.css'
 
 function BobaPlace(props) {
   const { name, image, address } = props;
   return (
-    <div>
+    <div className="BobaPlace">
+      <h1>{name}</h1>
       <img src={`${process.env.PUBLIC_URL}images/${image}`}
         width="300"
         height="300"
         alt="Boba place"
         />
-      <h1>{name}</h1>
       <div>{address}</div>
     </div>
   )

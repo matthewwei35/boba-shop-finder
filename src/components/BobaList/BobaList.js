@@ -1,5 +1,6 @@
 import React from 'react';
 import BobaPlace from '../BobaPlace/BobaPlace';
+import './BobaList.css';
 
 function BobaList() {
   return (
