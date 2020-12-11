@@ -1,5 +1,6 @@
 import React from 'react';
 import './BobaPlace.css'
+import Like from '../Like/Like';
 
 function BobaPlace(props) {
   const { name, image, address } = props;
@@ -12,6 +13,7 @@ function BobaPlace(props) {
         alt="Boba place"
         />
       <div>{address}</div>
+      <Like />
     </div>
   )
 }

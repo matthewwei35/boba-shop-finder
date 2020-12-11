@@ -1,0 +1,13 @@
+.Like {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+
+.Like > h1 {
+  padding: 0 1em;
+}
+
+.Like > button {
+  padding: 0 2em;
+}
