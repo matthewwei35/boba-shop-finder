@@ -3,7 +3,17 @@
   text-align: center;
 }
 
-.BobaPlace > img {
+.BobaPlace > h1 a {
+  text-decoration: none;
+  color: #000000;
+}
+
+.BobaPlace img {
   width: 100%;
   height: auto;
+  filter: drop-shadow(0 0 10px rgba(50, 50, 50, 0.75));
+}
+
+.BobaPlace div {
+  margin: 1em 0;
 }

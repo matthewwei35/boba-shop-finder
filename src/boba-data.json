@@ -30,7 +30,7 @@
      ],
      "website":"https://www.yelp.com/biz/my-cup-of-tea-san-francisco-2",
      "features":[
-        "no-contact delivery",
+        "no-contact delivery, ",
         "takeout"
      ]
   },
@@ -47,7 +47,7 @@
         "teazo.jpg"
      ],
      "features":[
-        "no-contact delivery",
+        "no-contact delivery, ",
         "takeout"
      ]
   },
@@ -80,7 +80,7 @@
         "foam-tea-house.jpg"
      ],
      "features":[
-        "no-contact delivery",
+        "no-contact delivery, ",
         "takeout"
      ]
   },

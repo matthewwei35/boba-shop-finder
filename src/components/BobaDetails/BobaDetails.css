@@ -1,0 +1,19 @@
+.BobaDetails > .Image > img {
+  filter: drop-shadow(0 0 10px rgba(50, 50, 50, 0.75));
+}
+
+.BobaDetails > .BobaDetails-Paragraph .Level1 {
+  width: calc(100% - 200px);
+  margin: auto;
+  padding-top: 1em;
+  display: grid;
+  text-align: center;
+  line-height: 2em;
+  font-size: 24px;
+}
+
+.BobaDetails > .BobaDetails-Paragraph .Level2 {
+  font-style: italic;
+  font-size: 18px;
+  color: #00000095;
+}

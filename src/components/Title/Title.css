@@ -3,15 +3,29 @@
   flex-direction: column;
   box-sizing: border-box;
   width: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: baseline;
-  padding: 1em 2em;
+  align-items: flex-start;
+  padding: 0.5em 2em;
   margin-bottom: 2em;
   background-color: #BF863F;
   color: #FFF;
 }
 
 .Title-Subtitle {
+  display: flex;
+  justify-content: flex-start;
   color: rgba(255, 255, 255, 0.75);
+}
+
+.Title .nav-link {
+  display: inline-block;
+  margin-top: 1em;
+  padding: 0.5em 1em;
+  color: rgba(255, 255, 255, 0.835);
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.Title .nav-link-active {
+  color: #fff;
+  border-bottom: 2px solid;
 }
