@@ -10,7 +10,7 @@ function BobaDetails(props) {
   return (
     <div className="BobaDetails">
       <div className="Image">
-        <img src={`${process.env.PUBLIC_URL}images/${images[0]}`} />
+        <img src={`${process.env.PUBLIC_URL}/images/${images[0]}`} />
       </div>
 
       <div className="BobaDetails-Paragraph">

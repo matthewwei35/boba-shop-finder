@@ -14,7 +14,7 @@ function BobaPlace(props) {
         </Link>
       </h1>
       <Link to={`/details/${id}`}>
-        <img src={`${process.env.PUBLIC_URL}images/${image}`}
+        <img src={`${process.env.PUBLIC_URL}/images/${image}`}
           width="300"
           height="300"
           alt="Boba place"
