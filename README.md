@@ -1,7 +1,7 @@
 # Boba Shop Finder - Sunset District
 
 ## Description
-I wanted to build a React project that I would use if it were an actual website since I like to drink milk tea. This project challenged me since I'm new to React but I'm proud of myself for making a decent looking site.
+I wanted to build a React project that I would use if it were an actual website. Since I like to drink milk tea this was a no brainer. This project challenged me since I'm new to React but I'm proud of myself for making a decent looking site.
 
 #### WORK IN PROGRESS
 * Plans to add more boba shops as the list is incomplete.
