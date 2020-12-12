@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/boba-shop-finder/static/css/main.cb13188a.chunk.css",
-    "main.js": "/boba-shop-finder/static/js/main.2cbeec8b.chunk.js",
-    "main.js.map": "/boba-shop-finder/static/js/main.2cbeec8b.chunk.js.map",
+    "main.js": "/boba-shop-finder/static/js/main.9095bc23.chunk.js",
+    "main.js.map": "/boba-shop-finder/static/js/main.9095bc23.chunk.js.map",
     "runtime-main.js": "/boba-shop-finder/static/js/runtime-main.8fa67758.js",
     "runtime-main.js.map": "/boba-shop-finder/static/js/runtime-main.8fa67758.js.map",
     "static/js/2.2f14f072.chunk.js": "/boba-shop-finder/static/js/2.2f14f072.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.8fa67758.js",
     "static/js/2.2f14f072.chunk.js",
     "static/css/main.cb13188a.chunk.css",
-    "static/js/main.2cbeec8b.chunk.js"
+    "static/js/main.9095bc23.chunk.js"
   ]
 }
