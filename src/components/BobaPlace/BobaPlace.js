@@ -3,7 +3,7 @@ import './BobaPlace.css'
 import Like from '../Like/Like';
 
 function BobaPlace(props) {
-  const { name, image, address } = props;
+  const { name, image, address, hours } = props;
   return (
     <div className="BobaPlace">
       <h1>{name}</h1>
@@ -13,6 +13,7 @@ function BobaPlace(props) {
         alt="Boba place"
         />
       <div>{address}</div>
+      <div><i>{hours}</i></div>
       <Like />
     </div>
   )

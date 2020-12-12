@@ -2,6 +2,7 @@
   display: flex;
   justify-content: center;
   flex-direction: row;
+  padding-top: 2em;
 }
 
 .Like > h1 {
