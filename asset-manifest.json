@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/boba-shop-finder/static/css/main.cb13188a.chunk.css",
+    "main.js": "/boba-shop-finder/static/js/main.2cbeec8b.chunk.js",
+    "main.js.map": "/boba-shop-finder/static/js/main.2cbeec8b.chunk.js.map",
+    "runtime-main.js": "/boba-shop-finder/static/js/runtime-main.8fa67758.js",
+    "runtime-main.js.map": "/boba-shop-finder/static/js/runtime-main.8fa67758.js.map",
+    "static/js/2.2f14f072.chunk.js": "/boba-shop-finder/static/js/2.2f14f072.chunk.js",
+    "static/js/2.2f14f072.chunk.js.map": "/boba-shop-finder/static/js/2.2f14f072.chunk.js.map",
+    "static/js/3.86fdeaed.chunk.js": "/boba-shop-finder/static/js/3.86fdeaed.chunk.js",
+    "static/js/3.86fdeaed.chunk.js.map": "/boba-shop-finder/static/js/3.86fdeaed.chunk.js.map",
+    "index.html": "/boba-shop-finder/index.html",
+    "static/css/main.cb13188a.chunk.css.map": "/boba-shop-finder/static/css/main.cb13188a.chunk.css.map",
+    "static/js/2.2f14f072.chunk.js.LICENSE.txt": "/boba-shop-finder/static/js/2.2f14f072.chunk.js.LICENSE.txt",
+    "static/media/boba.7b1c655e.jpg": "/boba-shop-finder/static/media/boba.7b1c655e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fa67758.js",
+    "static/js/2.2f14f072.chunk.js",
+    "static/css/main.cb13188a.chunk.css",
+    "static/js/main.2cbeec8b.chunk.js"
+  ]
+}
