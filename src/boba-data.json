@@ -1,103 +1,237 @@
 [
   {
-     "title":"Simple Tea House",
-     "desc":"They use fresh milk and fresh fruits to make their drinks. All Natural ingredients.",
-     "address":"2620 Ocean Ave, San Francisco, CA 94132",
-     "hours": "Tue - Fri and Sun 12pm - 6pm, Sat 12pm - 7pm",
-     "geo":{
-        "lat":37.731925,
-        "lon":-122.473586
-     },
-     "images":[
-        "simple-tea-house.jpg"
-     ],
-     "website":"https://www.yelp.com/biz/simple-tea-house-san-francisco-4?osq=simple+tea+house",
-     "features":[
-        "takeout"
-     ]
+    "title": "Simple Tea House",
+    "desc": "They use fresh milk and fresh fruits to make their drinks. All Natural ingredients.",
+    "address": "2620 Ocean Ave, San Francisco, CA 94132",
+    "hours": "Tue - Fri and Sun 12pm - 6pm, Sat 12pm - 7pm",
+    "geo": {
+      "lat": 37.731925,
+      "lon": -122.473586
+    },
+    "images": [
+      "simple-tea-house.jpg"
+    ],
+    "website": "https://www.yelp.com/biz/simple-tea-house-san-francisco-4?osq=simple+tea+house",
+    "features": [
+      "takeout"
+    ]
   },
   {
-     "title":"My Cup of Tea (Cool Tea Bar)",
-     "desc":"A spacious, modernized boba shop that serves high-quality, refreshing drinks. The perfect place to work with colleagues or hang out with friends!",
-     "address":"2666 Ocean Ave, San Francisco, CA 94132",
-     "hours": "Mon - Sun 11am - 8pm",
-     "geo":{
-        "lat":37.732264,
-        "lon":-122.474420
-     },
-     "images":[
-        "my-cup-of-tea.jpg"
-     ],
-     "website":"https://www.yelp.com/biz/my-cup-of-tea-san-francisco-2",
-     "features":[
-        "no-contact delivery, ",
-        "takeout"
-     ]
+    "title": "My Cup of Tea",
+    "desc": "A spacious, modernized boba shop that serves high-quality, refreshing drinks. The perfect place to work with colleagues or hang out with friends!",
+    "address": "2666 Ocean Ave, San Francisco, CA 94132",
+    "hours": "Mon - Sun 11am - 8pm",
+    "geo": {
+      "lat": 37.732264,
+      "lon": -122.474420
+    },
+    "images": [
+      "my-cup-of-tea.jpg"
+    ],
+    "website": "https://www.yelp.com/biz/my-cup-of-tea-san-francisco-2",
+    "features": [
+      "no-contact delivery, ",
+      "takeout"
+    ]
   },
   {
-     "title":"Teazo",
-     "desc":"Their milk tea shop is specializing in bringing you high qualities drink, snack and dessert. All of their products come with a guarantee of the finest ingredients are being used. From their team to yours, they pay careful attention to each item. They hope you enjoy their products as much as they enjoy bringing it to you!",
-     "address":"1050 Taraval St, San Francisco, CA 94116",
-     "hours": "Mon - Sun 11am - 6pm",
-     "geo":{
-        "lat":37.742975,
-        "lon":-122.477584
-     },
-     "images":[
-        "teazo.jpg"
-     ],
-     "features":[
-        "no-contact delivery, ",
-        "takeout"
-     ]
+    "title": "Teazo",
+    "desc": "Their milk tea shop is specializing in bringing you high qualities drink, snack and dessert. All of their products come with a guarantee of the finest ingredients are being used. From their team to yours, they pay careful attention to each item. They hope you enjoy their products as much as they enjoy bringing it to you!",
+    "address": "1050 Taraval St, San Francisco, CA 94116",
+    "hours": "Mon - Sun 11am - 6pm",
+    "geo": {
+      "lat": 37.742975,
+      "lon": -122.477584
+    },
+    "images": [
+      "teazo.jpg"
+    ],
+    "features": [
+      "no-contact delivery, ",
+      "takeout"
+    ]
   },
   {
-     "title":"Super Cue Cafe",
-     "desc":"At Super Cue, they believe in the importance of daily dose of sweetness, it not only makes life more enjoyable but certainly acts as fuel in the situations when we are in need of strength, happiness, and that element which puts joy in our life.",
-     "address":"1139 Taraval St, San Francisco, CA 94116",
-     "hours": "Currently Closed",
-     "geo":{
-        "lat":37.7939413,
-        "lon":-122.4002143
-     },
-     "images":[
-        "super-cue-cafe.jpg"
-     ],
-     "features":[
-        "takeout"
-     ]
+    "title": "Super Cue Cafe",
+    "desc": "At Super Cue, they believe in the importance of daily dose of sweetness, it not only makes life more enjoyable but certainly acts as fuel in the situations when we are in need of strength, happiness, and that element which puts joy in our life.",
+    "address": "1139 Taraval St, San Francisco, CA 94116",
+    "hours": "Currently Closed",
+    "geo": {
+      "lat": 37.7939413,
+      "lon": -122.4002143
+    },
+    "images": [
+      "super-cue-cafe.jpg"
+    ],
+    "features": [
+      "takeout"
+    ]
   },
   {
-     "title":"Foam Tea House",
-     "desc":"Foam Tea House is a premier and authentic boba shop which serving Sea Salt Cheese Creama on all boba drinks in San Francisco. Their mission has been to provide high-quality drinks for all those who wish to combine fun and enjoyable ambiance with traditional boba milk tea into one extraordinary boba experience.",
-     "address":"1745 Taraval St, San Francisco, CA 94116",
-     "hours": "Mon and Wed - Sun 12pm - 7pm, Tue 12pm - 6pm",
-     "geo":{
-        "lat":37.742655,
-        "lon":-122.485073
-     },
-     "images":[
-        "foam-tea-house.jpg"
-     ],
-     "features":[
-        "no-contact delivery, ",
-        "takeout"
-     ]
+    "title": "Foam Tea House",
+    "desc": "Foam Tea House is a premier and authentic boba shop which serving Sea Salt Cheese Creama on all boba drinks in San Francisco. Their mission has been to provide high-quality drinks for all those who wish to combine fun and enjoyable ambiance with traditional boba milk tea into one extraordinary boba experience.",
+    "address": "1745 Taraval St, San Francisco, CA 94116",
+    "hours": "Mon and Wed - Sun 12pm - 7pm, Tue 12pm - 6pm",
+    "geo": {
+      "lat": 37.742655,
+      "lon": -122.485073
+    },
+    "images": [
+      "foam-tea-house.jpg"
+    ],
+    "features": [
+      "no-contact delivery, ",
+      "takeout"
+    ]
   },
   {
-     "title":"TJ Cups",
-     "desc":"TJ CUPS is a popular boba milk tea shop and it's yelp hotspot. They're locally made in USA everyday 100%, No preservative, No artificial coloring. Healthy & Safe, taste more Fresh & more Chewy.",
-     "address":"2437 Noriega St, San Francisco, CA 94122",
-     "hours": "Mon - Sun 12pm - 6pm",
-     "geo":{
-        "lat":37.753630,
-        "lon":-122.49006
-     },
-     "images":[
-        "tj-cups.jpg"
-     ],
-     "features":[
-        "takeout"
-     ]
+    "title": "TJ Cups",
+    "desc": "TJ CUPS is a popular boba milk tea shop and it's yelp hotspot. They're locally made in USA everyday 100%, No preservative, No artificial coloring. Healthy & Safe, taste more Fresh & more Chewy.",
+    "address": "2437 Noriega St, San Francisco, CA 94122",
+    "hours": "Mon - Sun 12pm - 6pm",
+    "geo": {
+      "lat": 37.753630,
+      "lon": -122.49006
+    },
+    "images": [
+      "tj-cups.jpg"
+    ],
+    "features": [
+      "takeout"
+    ]
+  },
+  {
+    "title": "BB Tea Station",
+    "desc": "They are popular for their specialty drinks and souffle pancakes.",
+    "address": "1314 Noriega St, San Francisco, CA 94122",
+    "hours": "Mon - Sun 12pm - 6pm",
+    "geo": {
+      "lat": 37.754139,
+      "lon": -122.477870
+    },
+    "images": [
+      "bb-tea-station.jpg"
+    ],
+    "features": [
+      "dine-in, ",
+      "no-contact delivery, ",
+      "takeout"
+    ]
+  },
+  {
+    "title": "Wondertea",
+    "desc": "They specialize in fresh fruit drinks established in 2017. They started on December 10, 2017 because they want to share what they love to all people.",
+    "address": "2250 Irving St, San Francisco, CA 94122",
+    "hours": "Mon - Wed 11am - 7pm, Thu - Sun 11am - 8pm",
+    "geo": {
+      "lat": 37.763341,
+      "lon": -122.482346
+    },
+    "images": [
+      "wonder-tea.jpg"
+    ],
+    "features": [
+      "takeout"
+    ]
+  },
+  {
+    "title": "iTea",
+    "desc": "Their tea was founded in Kaohsiung and Alishan Province, to the current position as one of the largest tea grower in Taiwan. Over 45 years of experience in the tea industry, they bring you many unique drink selections, you always can get a cup of perfectly made fresh tea every time.",
+    "address": "2150 Irving St, San Francisco, CA 94122",
+    "hours": "Mon - Sun 11am - 9pm",
+    "geo": {
+      "lat": 37.763395,
+      "lon": -122.481287
+    },
+    "images": [
+      "itea.jpg"
+    ],
+    "features": [
+      "dine-in, ",
+      "takeout"
+    ]
+  },
+  {
+    "title": "Wonderful Foods",
+    "desc": "Candy store and bubble tea.",
+    "address": "2035 Irving St, San Francisco, CA 94122",
+    "hours": "Mon - Sun 11am - 12am (Next Day)",
+    "geo": {
+      "lat": 37.763459,
+      "lon": -122.479937
+    },
+    "images": [
+      "wonderful-foods.jpg"
+    ],
+    "features": [
+      "takeout"
+    ]
+  },
+  {
+    "title": "Tpumps",
+    "desc": "At Tpumps, they use loose tea leaves to brew all of their premium and high quality teas. They brew their tea fresh daily and control the timing and temperature to ensure the freshest, best quality tea experience for the Tpumps fans. We are also known for their Tpumps Honey Boba which is made fresh daily.",
+    "address": "1916 Irving St, San Francisco, CA 94122",
+    "hours": "Mon - Sun 11am - 9:30pm",
+    "geo": {
+      "lat": 37.763514,
+      "lon": -122.478617
+    },
+    "images": [
+      "tpumps.jpg"
+    ],
+    "features": [
+      "takeout"
+    ]
+  },
+  {
+    "title": "Teapenter",
+    "desc": "Their specialties are cooked well chewy boba pearl, Organic Jasmine green tea, and daily fresh made salted cheese crema. Tea latte use whole milk or non dairy choices by organic soy milk, organic almond milk, organic oat milk substitutes. Flavor fruit tea based on organic jade green tea.",
+    "address": "1518 Irving St, San Francisco, CA 94122",
+    "hours": "Mon - Thu and Sun 12pm - 8pm, Fri - Sat 12pm - 9pm",
+    "geo": {
+      "lat": 37.763700,
+      "lon": -122.474362
+    },
+    "images": [
+      "teapenter.jpg"
+    ],
+    "features": [
+      "no-contact delivery, ",
+      "takeout"
+    ]
+  },
+  {
+    "title": "Honey Creme",
+    "desc": "Honey Creme uses South Korea’s top fresh milk ice-cream recipes, which integrates fresh organic milk with cream, creating a new soft serve ice-cream with a rich, milky base flavor. Premium ingredients and healthy, organic foods are used in both the making of the ice-cream as well as the various toppings available. Honey Creme’s signature “Honey Comb Soft Serve Ice Cream” is garnished with an entire honey comb, bringing out the natural sweetness of the ice-cream without using any artificial sugar. Honey Creme’s most popular topping ingredient, “Comb Honey,” is conscientiously selected from prestigious US bee farms.",
+    "address": "839 Irving St, San Francisco, CA 94122",
+    "hours": "Tue - Thu and Sun 12:30pm - 6pm, Fri - Sat 12:30pm - 7pm",
+    "geo": {
+      "lat": 37.763993,
+      "lon": -122.467069
+    },
+    "images": [
+      "honey-creme.jpg"
+    ],
+    "features": [
+      "no-contact delivery, ",
+      "takeout"
+    ]
+  },
+  {
+    "title": "Little Sweet",
+    "desc": "Founded in 2012, Little Sweet is a local American brand. It is home to much more than just its popular bubble tea. It is Taiwan's original taste of pearl milk tea and is a fashion innovation. When it comes to bubble tea, there are plenty of options loaded with chewy, It features freshly brewed tea handcrafted make each drink to order. One of the founders is a Taiwanese young man who wants to be authentic. The delicious Taiwanese milk tea is brought to everyone, but you need to wait patiently for every cup of handcrafted tea to order.",
+    "address": "1253 9th Ave, San Francisco, CA 94122",
+    "hours": "Mon - Sun 11am - 10pm",
+    "geo": {
+      "lat": 37.764937,
+      "lon": -122.764937
+    },
+    "images": [
+      "little-sweet.jpg"
+    ],
+    "features": [
+      "no-contact delivery, ",
+      "takeout"
+    ]
   }
 ]
