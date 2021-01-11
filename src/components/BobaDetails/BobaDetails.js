@@ -5,7 +5,7 @@ import './BobaDetails.css'
 
 function BobaDetails(props) {
   const { id } = props.match.params
-  const { images, title, desc, hours, features, geo } = data[id]
+  const { images, title, desc, hours, features } = data[id]
 
   return (
     <div className="BobaDetails">
@@ -18,7 +18,6 @@ function BobaDetails(props) {
         <p className="Level1">{ desc }</p>
         <p className="Level1">{ hours }</p>
         <p className="Level2">{ features }</p>
-        <p className="Level2">{ geo.lat } { geo.lon }</p>
       </div>
     </div>
   )
