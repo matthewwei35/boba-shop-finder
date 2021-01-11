@@ -5,8 +5,8 @@
     "address": "2620 Ocean Ave, San Francisco, CA 94132",
     "hours": "Tue - Fri and Sun 12pm - 6pm, Sat 12pm - 7pm",
     "geo": {
-      "lat": 37.731925,
-      "lon": -122.473586
+      "type": "Point",
+      "coordinates": [37.73201926403849, -122.47349918776779]
     },
     "images": [
       "simple-tea-house.jpg"
@@ -22,8 +22,8 @@
     "address": "2666 Ocean Ave, San Francisco, CA 94132",
     "hours": "Mon - Sun 11am - 8pm",
     "geo": {
-      "lat": 37.732264,
-      "lon": -122.474420
+      "type": "Point",
+      "coordinates": [37.732369892810624, -122.47436074559253]
     },
     "images": [
       "my-cup-of-tea.jpg"
@@ -40,8 +40,8 @@
     "address": "1050 Taraval St, San Francisco, CA 94116",
     "hours": "Mon - Sun 11am - 6pm",
     "geo": {
-      "lat": 37.742975,
-      "lon": -122.477584
+      "type": "Point",
+      "coordinates": [37.74310867037472, -122.47759845959295]
     },
     "images": [
       "teazo.jpg"
@@ -57,8 +57,8 @@
     "address": "1139 Taraval St, San Francisco, CA 94116",
     "hours": "Currently Closed",
     "geo": {
-      "lat": 37.7939413,
-      "lon": -122.4002143
+      "type": "Point",
+      "coordinates": [37.742801433816155, -122.47860007878324]
     },
     "images": [
       "super-cue-cafe.jpg"
@@ -73,8 +73,8 @@
     "address": "1745 Taraval St, San Francisco, CA 94116",
     "hours": "Mon and Wed - Sun 12pm - 7pm, Tue 12pm - 6pm",
     "geo": {
-      "lat": 37.742655,
-      "lon": -122.485073
+      "type": "Point",
+      "coordinates": [37.74252433696478, -122.48505628816125]
     },
     "images": [
       "foam-tea-house.jpg"
@@ -90,8 +90,8 @@
     "address": "2437 Noriega St, San Francisco, CA 94122",
     "hours": "Mon - Sun 12pm - 6pm",
     "geo": {
-      "lat": 37.753630,
-      "lon": -122.49006
+      "type": "Point",
+      "coordinates": [37.753487634187046, -122.49001656022998]
     },
     "images": [
       "tj-cups.jpg"
@@ -106,8 +106,8 @@
     "address": "1314 Noriega St, San Francisco, CA 94122",
     "hours": "Mon - Sun 12pm - 6pm",
     "geo": {
-      "lat": 37.754139,
-      "lon": -122.477870
+      "type": "Point",
+      "coordinates": [37.75432218613403, -122.47789560014013]
     },
     "images": [
       "bb-tea-station.jpg"
@@ -124,8 +124,8 @@
     "address": "2250 Irving St, San Francisco, CA 94122",
     "hours": "Mon - Wed 11am - 7pm, Thu - Sun 11am - 8pm",
     "geo": {
-      "lat": 37.763341,
-      "lon": -122.482346
+      "type": "Point",
+      "coordinates": [37.763468099057626, -122.48238830674894]
     },
     "images": [
       "wonder-tea.jpg"
@@ -140,8 +140,8 @@
     "address": "2150 Irving St, San Francisco, CA 94122",
     "hours": "Mon - Sun 11am - 9pm",
     "geo": {
-      "lat": 37.763395,
-      "lon": -122.481287
+      "type": "Point",
+      "coordinates": [37.7635142102672, -122.48123025591144]
     },
     "images": [
       "itea.jpg"
@@ -157,8 +157,8 @@
     "address": "2035 Irving St, San Francisco, CA 94122",
     "hours": "Mon - Sun 11am - 12am (Next Day)",
     "geo": {
-      "lat": 37.763459,
-      "lon": -122.479937
+      "type": "Point",
+      "coordinates": [37.76333300568491, -122.47996291435406]
     },
     "images": [
       "wonderful-foods.jpg"
@@ -173,8 +173,8 @@
     "address": "1916 Irving St, San Francisco, CA 94122",
     "hours": "Mon - Sun 11am - 9:30pm",
     "geo": {
-      "lat": 37.763514,
-      "lon": -122.478617
+      "type": "Point",
+      "coordinates": [37.76363418769131, -122.47861230950268]
     },
     "images": [
       "tpumps.jpg"
@@ -189,8 +189,8 @@
     "address": "1518 Irving St, San Francisco, CA 94122",
     "hours": "Mon - Thu and Sun 12pm - 8pm, Fri - Sat 12pm - 9pm",
     "geo": {
-      "lat": 37.763700,
-      "lon": -122.474362
+      "type": "Point",
+      "coordinates": [37.7638239331025, -122.47432738761471]
     },
     "images": [
       "teapenter.jpg"
@@ -206,8 +206,8 @@
     "address": "839 Irving St, San Francisco, CA 94122",
     "hours": "Tue - Thu and Sun 12:30pm - 6pm, Fri - Sat 12:30pm - 7pm",
     "geo": {
-      "lat": 37.763993,
-      "lon": -122.467069
+      "type": "Point",
+      "coordinates": [37.76388489913615, -122.46705292014072]
     },
     "images": [
       "honey-creme.jpg"
@@ -223,8 +223,8 @@
     "address": "1253 9th Ave, San Francisco, CA 94122",
     "hours": "Mon - Sun 11am - 10pm",
     "geo": {
-      "lat": 37.764937,
-      "lon": -122.764937
+      "type": "Point",
+      "coordinates": [37.764940630193685, -122.46661277714261]
     },
     "images": [
       "little-sweet.jpg"
