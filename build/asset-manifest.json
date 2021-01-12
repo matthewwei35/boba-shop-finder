@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/boba-shop-finder/static/css/main.cb13188a.chunk.css",
-    "main.js": "/boba-shop-finder/static/js/main.fcb4a528.chunk.js",
-    "main.js.map": "/boba-shop-finder/static/js/main.fcb4a528.chunk.js.map",
-    "runtime-main.js": "/boba-shop-finder/static/js/runtime-main.8fa67758.js",
-    "runtime-main.js.map": "/boba-shop-finder/static/js/runtime-main.8fa67758.js.map",
-    "static/js/2.2f14f072.chunk.js": "/boba-shop-finder/static/js/2.2f14f072.chunk.js",
-    "static/js/2.2f14f072.chunk.js.map": "/boba-shop-finder/static/js/2.2f14f072.chunk.js.map",
-    "static/js/3.86fdeaed.chunk.js": "/boba-shop-finder/static/js/3.86fdeaed.chunk.js",
-    "static/js/3.86fdeaed.chunk.js.map": "/boba-shop-finder/static/js/3.86fdeaed.chunk.js.map",
+    "main.css": "/boba-shop-finder/static/css/main.b8f6dc35.chunk.css",
+    "main.js": "/boba-shop-finder/static/js/main.9df561e8.chunk.js",
+    "main.js.map": "/boba-shop-finder/static/js/main.9df561e8.chunk.js.map",
+    "runtime-main.js": "/boba-shop-finder/static/js/runtime-main.f3bf3acc.js",
+    "runtime-main.js.map": "/boba-shop-finder/static/js/runtime-main.f3bf3acc.js.map",
+    "static/js/2.52aeaa89.chunk.js": "/boba-shop-finder/static/js/2.52aeaa89.chunk.js",
+    "static/js/2.52aeaa89.chunk.js.map": "/boba-shop-finder/static/js/2.52aeaa89.chunk.js.map",
+    "static/js/3.ffb19437.chunk.js": "/boba-shop-finder/static/js/3.ffb19437.chunk.js",
+    "static/js/3.ffb19437.chunk.js.map": "/boba-shop-finder/static/js/3.ffb19437.chunk.js.map",
     "index.html": "/boba-shop-finder/index.html",
-    "static/css/main.cb13188a.chunk.css.map": "/boba-shop-finder/static/css/main.cb13188a.chunk.css.map",
-    "static/js/2.2f14f072.chunk.js.LICENSE.txt": "/boba-shop-finder/static/js/2.2f14f072.chunk.js.LICENSE.txt",
-    "static/media/boba.7b1c655e.jpg": "/boba-shop-finder/static/media/boba.7b1c655e.jpg"
+    "static/css/main.b8f6dc35.chunk.css.map": "/boba-shop-finder/static/css/main.b8f6dc35.chunk.css.map",
+    "static/js/2.52aeaa89.chunk.js.LICENSE.txt": "/boba-shop-finder/static/js/2.52aeaa89.chunk.js.LICENSE.txt",
+    "static/media/boba-drink.7b1c655e.jpg": "/boba-shop-finder/static/media/boba-drink.7b1c655e.jpg",
+    "static/media/boba-marker.d22df5f5.png": "/boba-shop-finder/static/media/boba-marker.d22df5f5.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.8fa67758.js",
-    "static/js/2.2f14f072.chunk.js",
-    "static/css/main.cb13188a.chunk.css",
-    "static/js/main.fcb4a528.chunk.js"
+    "static/js/runtime-main.f3bf3acc.js",
+    "static/js/2.52aeaa89.chunk.js",
+    "static/css/main.b8f6dc35.chunk.css",
+    "static/js/main.9df561e8.chunk.js"
   ]
 }
