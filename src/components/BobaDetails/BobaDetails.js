@@ -1,6 +1,6 @@
 /* eslint-disable jsx-a11y/alt-text */
 import React from 'react';
-import data from '../../boba-data.json';
+import data from '../../boba-data-copy.json';
 import './BobaDetails.css'
 
 function BobaDetails(props) {

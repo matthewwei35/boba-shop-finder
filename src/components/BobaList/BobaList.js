@@ -4,7 +4,7 @@ import './BobaList.css';
 import data from '../../boba-data.json';
 
 function BobaList() {
-  const places = data.map(( { title, images, address, hours }, i) => {
+  const places = data.features.map(( { title, images, address, hours }, i) => {
     return (
       <BobaPlace
         id={i}

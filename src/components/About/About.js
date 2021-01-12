@@ -1,5 +1,5 @@
 import React from 'react';
-import picture from '../../boba.jpg';
+import bobaDrink from '../../boba-drink.jpg';
 import './About.css';
 
 function About() {
@@ -8,7 +8,7 @@ function About() {
       <h1>About Boba Shop Finder</h1>
       <div className="About-Subtitle">Boba Shops in the Sunset</div>
       <div className="About-Paragraph">
-        <img src={picture}
+        <img src={bobaDrink}
           width="300"
           height="300"
           alt="Bubble tea (Boba) in a glass"

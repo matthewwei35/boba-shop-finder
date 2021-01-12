@@ -18,6 +18,10 @@ function Title() {
         <NavLink
           className="nav-link"
           activeClassName="nav-link-active"
+          to="/boba-map">Boba Map</NavLink>
+        <NavLink
+          className="nav-link"
+          activeClassName="nav-link-active"
           to="/about">About</NavLink>
       </div>
     </div>

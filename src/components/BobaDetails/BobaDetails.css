@@ -1,4 +1,7 @@
 .BobaDetails > .Image > img {
+  padding: 2em 0em 0em 0em;
+  width: 25%;
+  height: 25%;
   filter: drop-shadow(0 0 10px rgba(50, 50, 50, 0.75));
 }
 
